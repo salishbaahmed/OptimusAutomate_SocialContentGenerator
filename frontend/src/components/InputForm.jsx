@@ -58,7 +58,7 @@ export default function InputForm({ onSubmit, loading }) {
           placeholder={
             inputType === 'topic'
               ? 'e.g., The future of AI agent development, Python optimization tips...'
-              : 'e.g., OptimusAutomate is an AI-powered process builder that saves businesses 10+ hours a week...'
+              : 'e.g., AI Content Studio is an AI-powered process builder that saves businesses 10+ hours a week...'
           }
           className="form-textarea"
           required

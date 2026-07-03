@@ -70,7 +70,7 @@ export default function App() {
           </div>
         </div>
         <div className="badge-internship">
-          OptimusAutomate AI Internship Task
+          AI Content Studio
         </div>
       </header>
 
@@ -165,7 +165,7 @@ export default function App() {
       
       {/* Footer */}
       <footer className="app-footer">
-        <p>© 2026 OptimusAutomate AI Automation Internship. Developed with Groq & React.</p>
+        <p>© 2026 Social Media Content Generator. Developed with Groq & React.</p>
       </footer>
     </div>
   );
